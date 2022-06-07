@@ -1,3 +1,14 @@
 this is begining of the story 
 
+<<<<<<< HEAD
 mr frodo have a friend Samwise Gamjee
+=======
+mr frodo
+
+
+
+
+these are extended version 2 hours more than released on theater 
+
+
+>>>>>>> test_branch
